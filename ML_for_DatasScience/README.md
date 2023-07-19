@@ -7,3 +7,9 @@
 
 ## Feature scaling :
 -> https://www.youtube.com/watch?v=P3xPA7XFGCQ
+
+## over fitting and under fitting :
+-> https://www.youtube.com/watch?v=SOI39DEHGSk 
+
+## regularization :
+-> https://www.youtube.com/watch?v=CgbbvozFgXo
