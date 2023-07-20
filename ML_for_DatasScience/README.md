@@ -1,3 +1,6 @@
+## Video Lectures :
+-> https://www.youtube.com/playlist?list=PLnd7R4Mcw3rIyaP3w8ij3lVqBPbZKfKJ8
+
 ## Notion quick recap notes :
 -> https://taycan.notion.site/Complete-ML-Notes-8416ff442fa54500bc03d2631d07ef29?pvs=4
 
