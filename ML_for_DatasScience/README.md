@@ -16,3 +16,6 @@
 
 ## regularization :
 -> https://www.youtube.com/watch?v=CgbbvozFgXo
+
+## convolutional Neural Network :
+-> https://youtu.be/K_BHmztRTpA
