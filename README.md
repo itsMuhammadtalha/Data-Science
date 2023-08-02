@@ -8,11 +8,7 @@ Hey I am Muhammad Talha Welcome to my Data Science Learning Journey repository! 
 - [My Achievements](#my-achievements)
 
 ## Readings/Articles
-In this section, I collect and share insightful readings and articles that have contributed to my data science knowledge. These resources have been invaluable in shaping my understanding of various concepts.
-[data science the sexiest job.pdf](https://github.com/itsMuhammadtalha/Data-Science/files/12116950/data.science.the.sexiest.job.pdf)
-
-[What_Makes_Someone_DataScientist.pdf](https://github.com/itsMuhammadtalha/Data-Science/files/12145646/Reading_What_Makes_Someone_DataScientist.pdf)
-
+In this section, I collect and share insightful readings and articles that have contributed to my data science knowledge.
 
 - [Data-Science the sexiest job](https://github.com/itsMuhammadtalha/Data-Science/files/12116950/data.science.the.sexiest.job.pdf)
 - [What_Makes_Someone_DataScientist](https://github.com/itsMuhammadtalha/Data-Science/files/12145646/Reading_What_Makes_Someone_DataScientist.pdf)
