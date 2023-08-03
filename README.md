@@ -1,6 +1,6 @@
 # Data Science Learning Journey
 
-Hey I am Muhammad Talha Welcome to my Data Science Learning Journey repository! Here, I document my progress, resources, and achievements as I explore the exciting world of data science.
+👋 Hey I am Muhammad Talha Welcome to my Data Science Learning Journey repository! Here, I document my progress, resources, and achievements as I explore the exciting world of data science.
 
 ## Table of Contents
 - [Readings/Articles](#readingsarticles)
