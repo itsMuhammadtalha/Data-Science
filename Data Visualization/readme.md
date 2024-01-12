@@ -2,4 +2,5 @@
 https://datavizblog.com/2013/04/29/andrew-abelas-chart-chooser
 
 ### libraries Documentation
-https://matplotlib.org/
+ - Matplotlib : https://matplotlib.org/
+ - Plotly : https://plotly.com/python/
