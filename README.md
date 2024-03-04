@@ -19,6 +19,7 @@ Here, you'll find links to my individual repositories where I've uploaded code, 
 
 - [Python For Data Science](https://github.com/itsMuhammadtalha/Data-Science/tree/master/Python)
 - [Machine Learning (Theoretical)](https://github.com/itsMuhammadtalha/Data-Science/tree/master/ML_for_DatasScience)
+- [Linear Algebra in Python](https://github.com/itsMuhammadtalha/Data-Science/tree/master/Linear%20Algebra)
 - [Complete Machine Learning Notes](https://taycan.notion.site/Complete-ML-Notes-8416ff442fa54500bc03d2631d07ef29?pvs=4)
 - [Data Science Methodologies](https://github.com/itsMuhammadtalha/Data-Science/tree/master/Data%20Science%20Methodologies)
 - [Data Analysis with Python](https://github.com/itsMuhammadtalha/Data-Science/tree/master/Data%20Analysis%20with%20python)
